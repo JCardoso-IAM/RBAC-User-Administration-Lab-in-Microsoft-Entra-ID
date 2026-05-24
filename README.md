@@ -9,7 +9,7 @@ Recently spent time building out a hands-on IAM lab in Microsoft Entra ID to str
 - Identity Governance
 ## User Managemet 
 ![Users](Users.png)
-#[Groups](Groups.png)
+##[Groups](Groups.png)
 ## Audit Logs
 ![Logs](Logs.png)
 ## Skills Demonstrated
